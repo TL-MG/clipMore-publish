@@ -52,4 +52,5 @@
 | 可打印字符          | 自动聚焦搜索框并输入内容搜索            |
 | 点击窗口外          | 自动隐藏主面板                   |
 
-# 
+## 请作者喝一杯咖啡
+<p align="left"><img src="resource/微信.png" width="200" /> <img src="resource/支付宝.jpg" width="200" /></p>
